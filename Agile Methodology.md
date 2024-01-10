@@ -6,6 +6,11 @@
 - built incrementally
 - focus on value
 - Have an empowered team
+- mistakes are expected to be fixed when they are discovered
+- enables innovative ideas to be quickly build
+- risk is lowered
+- predictable deliveries
+- based on scientific method
 
 Agile Manifesto : a document on four values and 12 principles
 
@@ -48,6 +53,25 @@ Agile Manifesto : a document on four values and 12 principles
 
 - for small teams
 - involes sprints
+- Workflow
+    - Product planning
+    - Sprint planning
+    - Sprint backlog
+    - Sprint
+    - Potential product
+    - Sprint review
+- Roles
+    - Product owner
+    - Scrum master
+    - Team members
+- Artifacts
+    - product backlog
+    - Sprint backlog
+    - Burndown
+- Ceremonies
+    - Sprint planning
+    - Daily planning
+    - Sprint Review
 
 ### 3. Extreme Programming
 
@@ -83,4 +107,3 @@ Agile Manifesto : a document on four values and 12 principles
 
 - blends different Agile best practices
 - relies heavily on customer input
--
